@@ -6,6 +6,7 @@ import {
 import './globals.css';
 import LightRays from '../components/LightRays';
 import Navbar from '@/components/Navbar';
+import { PostHogProvider } from '@/components/PostHogProvider';
 
 const schibstedGrotesk = Schibsted_Grotesk({
   variable: '--font-geist-sans',
