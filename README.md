@@ -9,3 +9,8 @@ babel-plugin-react-compiler - https://react.dev/learn/react-compiler/introductio
 Create .env file in project level, add keys: NEXT_PUBLIC_POSTHOG_KEY=
 NEXT_PUBLIC_POSTHOG_HOST=
 from page: https://eu.posthog.com/project/124069/error_tracking
+
+MONGODB_PASSWORD=
+MONGODB_USERNAME=
+MONGODB_URI=
+from page: https://cloud.mongodb.com/v2/6987659a4074a406f5560af2#/overview?automateSecurity=true&connectCluster=Cluster0
