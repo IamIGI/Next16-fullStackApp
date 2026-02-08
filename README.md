@@ -15,5 +15,5 @@ MONGODB_USERNAME=
 MONGODB_URI=
 from page: https://cloud.mongodb.com/v2/6987659a4074a406f5560af2#/overview?automateSecurity=true&connectCluster=Cluster0
 
-CLOUDINARY_URL=cloudinary://394441687525881:8Hzz6eczCXPRzsMch1sTlKMSUp0@dt2ex8fkb
+CLOUDINARY_URL=''
 from pag: https://console.cloudinary.com/app/c-811b308a63885367b489dbb5498d86/settings/api-keys

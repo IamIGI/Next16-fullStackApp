@@ -80,7 +80,7 @@ export async function GET() {
 
     const events = await Event.find().sort({
       createdAt: -1,
-    });
+    }
 
     return NextResponse.json(
       { message: 'Events fetched successfully', events },
